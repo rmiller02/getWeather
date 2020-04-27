@@ -1,0 +1,12 @@
+.container {
+    background-image: url('sky4.jpg');
+    background-size: cover;
+    width: 50%;
+    border: 3px solid #293d3d;
+    box-shadow: 2px 2px #141f1f;
+    text-align: center;
+    margin: 20px auto;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
